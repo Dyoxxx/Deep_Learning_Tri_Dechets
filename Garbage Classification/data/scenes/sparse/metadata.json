@@ -1,0 +1,2562 @@
+[
+  {
+    "file": "sparse_0000",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          70,
+          62,
+          109,
+          91
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          173,
+          189,
+          239,
+          238
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          8,
+          7,
+          69,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0001",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          154,
+          6,
+          201,
+          41
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          179,
+          139,
+          244,
+          187
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          71,
+          207,
+          126,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0002",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          87,
+          71,
+          152,
+          119
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          88,
+          154,
+          163,
+          210
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          137,
+          31,
+          203,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0003",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          160,
+          158,
+          219,
+          202
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          11,
+          169,
+          76,
+          217
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          59,
+          25,
+          135,
+          82
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0004",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          93,
+          41,
+          148,
+          82
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          68,
+          179,
+          114,
+          213
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          43,
+          136,
+          104,
+          181
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0005",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          97,
+          69,
+          141,
+          102
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          14,
+          58,
+          78,
+          106
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          145,
+          183,
+          198,
+          222
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0006",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          101,
+          164,
+          164,
+          211
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          149,
+          109,
+          197,
+          145
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          35,
+          130,
+          87,
+          169
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0007",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          28,
+          39,
+          95,
+          89
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          108,
+          152,
+          176,
+          203
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          2,
+          174,
+          55,
+          213
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0008",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          137,
+          192,
+          201,
+          240
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          111,
+          40,
+          153,
+          71
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          67,
+          128,
+          142,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0009",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          76,
+          163,
+          147,
+          216
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          195,
+          41,
+          239,
+          74
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          125,
+          4,
+          186,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0010",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          78,
+          61,
+          150,
+          115
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          136,
+          196,
+          208,
+          250
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          67,
+          135,
+          130,
+          182
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0011",
+    "objects": [
+      {
+        "class": "plastic",
+        "box": [
+          138,
+          193,
+          213,
+          249
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          166,
+          95,
+          231,
+          143
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          57,
+          16,
+          100,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0012",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          58,
+          150,
+          118,
+          195
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          161,
+          15,
+          202,
+          45
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          84,
+          18,
+          157,
+          72
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0013",
+    "objects": [
+      {
+        "class": "plastic",
+        "box": [
+          124,
+          54,
+          173,
+          90
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          146,
+          147,
+          212,
+          196
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          24,
+          24,
+          92,
+          75
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0014",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          105,
+          119,
+          157,
+          158
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          165,
+          25,
+          229,
+          73
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          27,
+          63,
+          93,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0015",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          35,
+          108,
+          93,
+          151
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          140,
+          25,
+          196,
+          67
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          60,
+          42,
+          135,
+          98
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0016",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          102,
+          15,
+          158,
+          57
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          99,
+          67,
+          137,
+          95
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          187,
+          200,
+          241,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0017",
+    "objects": [
+      {
+        "class": "plastic",
+        "box": [
+          75,
+          55,
+          119,
+          88
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          14,
+          12,
+          81,
+          62
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          135,
+          40,
+          192,
+          82
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0018",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          17,
+          152,
+          88,
+          205
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          145,
+          63,
+          198,
+          102
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          107,
+          168,
+          169,
+          214
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0019",
+    "objects": [
+      {
+        "class": "plastic",
+        "box": [
+          52,
+          171,
+          126,
+          226
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          101,
+          33,
+          148,
+          68
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          192,
+          18,
+          247,
+          59
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0020",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          144,
+          25,
+          206,
+          71
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          33,
+          89,
+          90,
+          131
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          139,
+          180,
+          191,
+          219
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0021",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          141,
+          76,
+          205,
+          124
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          34,
+          67,
+          108,
+          122
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          72,
+          154,
+          138,
+          203
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0022",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          162,
+          218,
+          208,
+          252
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          13,
+          23,
+          61,
+          59
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          85,
+          197,
+          155,
+          249
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0023",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          113,
+          141,
+          157,
+          174
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          28,
+          19,
+          87,
+          63
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          141,
+          37,
+          200,
+          81
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0024",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          93,
+          203,
+          133,
+          233
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          63,
+          170,
+          109,
+          204
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          39,
+          60,
+          107,
+          111
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0025",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          6,
+          45,
+          78,
+          99
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          105,
+          205,
+          173,
+          256
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          201,
+          179,
+          249,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0026",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          120,
+          56,
+          191,
+          109
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          203,
+          58,
+          254,
+          96
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          71,
+          17,
+          134,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0027",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          102,
+          173,
+          165,
+          220
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          29,
+          66,
+          103,
+          121
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          152,
+          111,
+          191,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0028",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          130,
+          29,
+          185,
+          70
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          181,
+          111,
+          229,
+          147
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          17,
+          170,
+          69,
+          209
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0029",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          31,
+          184,
+          94,
+          231
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          83,
+          103,
+          147,
+          151
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          170,
+          97,
+          229,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0030",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          77,
+          103,
+          139,
+          149
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          201,
+          148,
+          251,
+          185
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          113,
+          172,
+          169,
+          214
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0031",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          188,
+          43,
+          256,
+          94
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          169,
+          162,
+          218,
+          198
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          57,
+          206,
+          98,
+          236
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0032",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          62,
+          121,
+          101,
+          150
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          161,
+          147,
+          216,
+          188
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          62,
+          37,
+          119,
+          79
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0033",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          27,
+          199,
+          99,
+          253
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          178,
+          132,
+          223,
+          165
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          31,
+          116,
+          90,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0034",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          143,
+          152,
+          207,
+          200
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          114,
+          40,
+          175,
+          85
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          192,
+          63,
+          247,
+          104
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0035",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          133,
+          124,
+          200,
+          174
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          19,
+          182,
+          67,
+          218
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          81,
+          138,
+          129,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0036",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          98,
+          177,
+          142,
+          210
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          104,
+          84,
+          144,
+          114
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          52,
+          213,
+          106,
+          253
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0037",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          149,
+          178,
+          222,
+          232
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          90,
+          76,
+          146,
+          118
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          154,
+          56,
+          213,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0038",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          124,
+          7,
+          172,
+          43
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          103,
+          185,
+          167,
+          233
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          159,
+          136,
+          232,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0039",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          169,
+          6,
+          230,
+          51
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          118,
+          46,
+          161,
+          78
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          54,
+          116,
+          106,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0040",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          97,
+          71,
+          164,
+          121
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          120,
+          4,
+          190,
+          56
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          7,
+          63,
+          83,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0041",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          61,
+          32,
+          123,
+          78
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          55,
+          119,
+          115,
+          164
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          155,
+          191,
+          222,
+          241
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0042",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          41,
+          79,
+          109,
+          130
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          147,
+          173,
+          221,
+          228
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          50,
+          19,
+          124,
+          74
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0043",
+    "objects": [
+      {
+        "class": "plastic",
+        "box": [
+          197,
+          77,
+          239,
+          108
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          144,
+          200,
+          212,
+          251
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          17,
+          129,
+          75,
+          172
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0044",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          107,
+          210,
+          145,
+          238
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          92,
+          162,
+          147,
+          203
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          187,
+          133,
+          242,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0045",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          137,
+          198,
+          199,
+          244
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          187,
+          151,
+          242,
+          192
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          22,
+          71,
+          93,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0046",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          145,
+          156,
+          212,
+          206
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          126,
+          217,
+          177,
+          255
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          66,
+          87,
+          123,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0047",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          132,
+          48,
+          191,
+          92
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          125,
+          142,
+          191,
+          191
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          4,
+          23,
+          67,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0048",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          62,
+          78,
+          115,
+          117
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          135,
+          88,
+          191,
+          130
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          59,
+          30,
+          110,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0049",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          190,
+          137,
+          240,
+          174
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          70,
+          185,
+          115,
+          218
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          49,
+          75,
+          125,
+          132
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0050",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          3,
+          181,
+          48,
+          214
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          13,
+          141,
+          61,
+          177
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          192,
+          125,
+          254,
+          171
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0051",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          120,
+          122,
+          180,
+          167
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          13,
+          64,
+          58,
+          97
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          18,
+          147,
+          87,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0052",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          207,
+          144,
+          251,
+          177
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          30,
+          142,
+          106,
+          199
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          113,
+          76,
+          181,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0053",
+    "objects": [
+      {
+        "class": "plastic",
+        "box": [
+          158,
+          15,
+          208,
+          52
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          53,
+          160,
+          127,
+          215
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          40,
+          61,
+          103,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0054",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          104,
+          115,
+          148,
+          148
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          59,
+          73,
+          108,
+          109
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          116,
+          18,
+          181,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0055",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          160,
+          150,
+          233,
+          204
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          139,
+          57,
+          193,
+          97
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          36,
+          18,
+          109,
+          72
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0056",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          152,
+          191,
+          220,
+          242
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          77,
+          179,
+          132,
+          220
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          126,
+          112,
+          183,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0057",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          82,
+          154,
+          154,
+          208
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          172,
+          214,
+          213,
+          244
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          172,
+          68,
+          248,
+          125
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0058",
+    "objects": [
+      {
+        "class": "plastic",
+        "box": [
+          44,
+          120,
+          111,
+          170
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          111,
+          162,
+          184,
+          216
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          104,
+          85,
+          160,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0059",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          84,
+          105,
+          155,
+          158
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          102,
+          208,
+          151,
+          244
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          80,
+          64,
+          135,
+          105
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0060",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          103,
+          131,
+          178,
+          187
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          48,
+          132,
+          102,
+          172
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          194,
+          13,
+          256,
+          59
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0061",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          73,
+          112,
+          132,
+          156
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          161,
+          155,
+          204,
+          187
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          3,
+          141,
+          53,
+          178
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0062",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          29,
+          118,
+          76,
+          153
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          183,
+          74,
+          240,
+          116
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          123,
+          120,
+          177,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0063",
+    "objects": [
+      {
+        "class": "glass",
+        "box": [
+          98,
+          48,
+          157,
+          92
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          70,
+          197,
+          141,
+          250
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          0,
+          72,
+          74,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0064",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          148,
+          168,
+          218,
+          220
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          123,
+          88,
+          178,
+          129
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          82,
+          48,
+          137,
+          89
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0065",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          59,
+          198,
+          119,
+          243
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          121,
+          180,
+          171,
+          217
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          166,
+          38,
+          242,
+          95
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0066",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          151,
+          84,
+          194,
+          116
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          116,
+          3,
+          158,
+          34
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          167,
+          39,
+          221,
+          79
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0067",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          67,
+          86,
+          135,
+          137
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          84,
+          172,
+          147,
+          219
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          160,
+          183,
+          235,
+          239
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0068",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          60,
+          161,
+          122,
+          207
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          162,
+          180,
+          238,
+          237
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          76,
+          7,
+          120,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0069",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          75,
+          91,
+          143,
+          142
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          144,
+          174,
+          187,
+          206
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          156,
+          222,
+          201,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0070",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          149,
+          36,
+          206,
+          78
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          173,
+          139,
+          235,
+          185
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          88,
+          150,
+          143,
+          191
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0071",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          116,
+          77,
+          180,
+          125
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          27,
+          60,
+          98,
+          113
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          179,
+          75,
+          239,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0072",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          144,
+          175,
+          192,
+          211
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          127,
+          73,
+          200,
+          127
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          48,
+          158,
+          94,
+          192
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0073",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          160,
+          165,
+          222,
+          211
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          8,
+          148,
+          76,
+          199
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          75,
+          83,
+          116,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0074",
+    "objects": [
+      {
+        "class": "trash",
+        "box": [
+          33,
+          201,
+          78,
+          234
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          42,
+          65,
+          100,
+          108
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          86,
+          205,
+          153,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0075",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          36,
+          193,
+          111,
+          249
+        ]
+      },
+      {
+        "class": "glass",
+        "box": [
+          142,
+          93,
+          217,
+          149
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          137,
+          31,
+          175,
+          59
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0076",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          172,
+          67,
+          236,
+          115
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          95,
+          27,
+          164,
+          78
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          158,
+          143,
+          214,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0077",
+    "objects": [
+      {
+        "class": "metal",
+        "box": [
+          162,
+          118,
+          225,
+          165
+        ]
+      },
+      {
+        "class": "trash",
+        "box": [
+          29,
+          35,
+          92,
+          82
+        ]
+      },
+      {
+        "class": "cardboard",
+        "box": [
+          126,
+          29,
+          176,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0078",
+    "objects": [
+      {
+        "class": "cardboard",
+        "box": [
+          34,
+          99,
+          106,
+          153
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          190,
+          178,
+          254,
+          226
+        ]
+      },
+      {
+        "class": "plastic",
+        "box": [
+          186,
+          39,
+          246,
+          84
+        ]
+      }
+    ]
+  },
+  {
+    "file": "sparse_0079",
+    "objects": [
+      {
+        "class": "paper",
+        "box": [
+          157,
+          104,
+          227,
+          156
+        ]
+      },
+      {
+        "class": "metal",
+        "box": [
+          55,
+          113,
+          119,
+          161
+        ]
+      },
+      {
+        "class": "paper",
+        "box": [
+          25,
+          175,
+          96,
+          228
+        ]
+      }
+    ]
+  }
+]

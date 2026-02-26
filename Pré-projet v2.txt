@@ -1,0 +1,34 @@
+Binôme Habib, Thibaud
+
+Pré-projet : Tri de déchets par segmentation sémantique
+
+Objectif
+Développer un modèle de segmentation sémantique capable d’identifier et de classer les déchets dans six catégories : Verre, Carton, Papier, Plastique, Métal, Autres. L’objectif est d’analyser l’impact de l’espacement et de la densité des déchets sur les performances du modèle.
+
+Méthodologie
+
+Segmentation sémantique : Chaque pixel de l’image sera associé à une classe de déchet afin de permettre une localisation précise et un comptage automatique.
+
+Variabilité des images : Utilisation d’images avec des déchets plus ou moins espacés pour étudier l’évolution des performances du modèle selon la densité et le chevauchement des objets.
+
+Jeux de données
+
+Dataset Kaggle : Garbage Classification https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+Dataset TrashNet : GitHub TrashNet https://github.com/garythung/trashnet/tree/master
+
+Possibilité d’explorer d’autres datasets pour enrichir la diversité des objets et des contextes.
+
+Résultats attendus
+
+Carte de segmentation précise pour chaque image.
+
+Analyse de la performance du modèle en fonction de l’espacement des déchets.
+
+Modèle applicable à des systèmes automatiques de tri ou à des applications d’éducation environnementale.
+
+Perspectives
+
+Extension à d’autres types de déchets ou matériaux composites.
+
+Intégration dans des systèmes robotisés ou des applications mobiles pour la reconnaissance et le tri automatique.

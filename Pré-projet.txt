@@ -1,0 +1,13 @@
+Binôme Habib, Thibaud
+
+Sujet : Tri de déchets
+
+6 Classes : Verre, Carton, Papier, Plastique, Métal, Autres
+
+Segmentation sémantique, prendre des images avec des déchets plus ou moins espacés pour voir l'évolution des performances
+
+1er dataset : https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+2ème dataset : https://github.com/garythung/trashnet/tree/master (YOLO)
+
+3ème dataset : Zero Waste image déchets collés sur tapis de tri
