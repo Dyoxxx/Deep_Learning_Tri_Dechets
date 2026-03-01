@@ -15,7 +15,9 @@ Jeux de données
 
 Dataset Kaggle : Garbage Classification https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
-Dataset TrashNet : GitHub TrashNet https://github.com/garythung/trashnet/tree/master
+Dataset TrashNet : GitHub TrashNet https://github.com/garythung/trashnet/tree/master (pas utilisé au final)
+
+Dataset Zero Waste : https://zenodo.org/records/6412647 (zerowaste-f-final.zip)
 
 Possibilité d’explorer d’autres datasets pour enrichir la diversité des objets et des contextes.
 
