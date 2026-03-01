@@ -1,0 +1,9 @@
+mIoU: 0.3129
+mIoU sans fond: 0.1795
+Accuracy: 0.8476
+
+background: IoU=0.8465  F1=0.9169
+rigid_plastic: IoU=0.0110  F1=0.0218
+cardboard: IoU=0.4205  F1=0.5920
+metal: IoU=0.0127  F1=0.0251
+soft_plastic: IoU=0.2736  F1=0.4297
